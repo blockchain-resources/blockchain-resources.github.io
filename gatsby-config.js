@@ -5,7 +5,7 @@ module.exports = {
   plugins: [
     {
       resolve: `gatsby-theme-andy`,
-      options: { notesDirectory: "notes/", rootNote: "index" },
+      options: { notesDirectory: "notes/", rootNote: "about" },
     },
   ],
 };
