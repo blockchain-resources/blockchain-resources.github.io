@@ -40,7 +40,7 @@ name: Gatsby Publish
 on:
   push:
     branches:
-      - master
+      - docs
 
 jobs:
   build:
