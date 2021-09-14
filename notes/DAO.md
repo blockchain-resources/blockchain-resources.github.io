@@ -1,18 +1,25 @@
-- **Tokens:**
+![](../attachments/dao-list.png)
+
+**Protocol DAOs:**
+  - [[MakerDAO]]
+  - [[Compound]]
   - [[Uniswap]]
   - [[Aave]]
-  - [[Maker]]
-  - [[Compound]]
+
+**DAO Operating Systems:**
+  - [[Aragon]]
+  - [[DAOstack]]
+
+- **Tokens:**
   - [[Dash]]
   - [[Decred]]
   - [[SushiSwap]]
   - [[Synthetix]]
+  - [[0x]]
   - **More:**
     - [[Curve DAO Token]]
-    - [[0x]]
     - [[UMA]]
     - [[Stratis]]
-    - [[Aragon]]
     - [[Badger DAO]]
     - [[Balancer]]
     - [[Kyber Network Crystal v2]]
@@ -61,7 +68,6 @@
     - [[NFT]]
     - [[Hakka.Finance]]
     - [[PieDAO DOUGH v2]]
-    - [[DAOstack]]
     - [[Governor DAO]]
     - [[YFDAI.FINANCE]]
     - [[Digix Gold Token]]
